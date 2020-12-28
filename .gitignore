@@ -1,0 +1,6 @@
+arts/
+node_modules/
+run.bat
+commit.bat
+package-lock.json
+Universe/.obsidian
