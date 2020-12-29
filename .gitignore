@@ -4,3 +4,4 @@ run.bat
 commit.bat
 package-lock.json
 Universe/.obsidian
+.vscode/
